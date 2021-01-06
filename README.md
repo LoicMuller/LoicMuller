@@ -2,7 +2,7 @@
 
 Hi there ! I'm Loïc. 
 
-My favourite tools for coding are : 
+My favourite dev tools are : 
 - HTML / CSS / JS
 - React JS
 
