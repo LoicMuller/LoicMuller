@@ -8,7 +8,7 @@ My favourite tools for coding are :
 
 I also have some knowledges about Redux and Node.js
 
-You can reach me at : [loicmuller01@outlook.com]
+You can reach me at : loicmuller01@outlook.com
 
 And here is my [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-muller-984599203/) profile.
 
