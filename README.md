@@ -2,9 +2,10 @@
 
 Hi there ! I'm Loïc. 
 
-My favourite dev tools are : 
-- HTML / CSS / JS
+My dev tools are : 
 - React JS
+- HTML / CSS / JS
+
 
 I also have some knowledges about Redux and Node.js
 
